@@ -137,7 +137,7 @@ papertitle {
   }
 
   .image {
-    // border-radius: 0.35em;
+    border-radius: 0.35em;
     border: 0;
     display: inline-block;
     position: relative;
@@ -160,7 +160,7 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
+      border-radius: 10%;
     }
 
       .image.avatar:before {
