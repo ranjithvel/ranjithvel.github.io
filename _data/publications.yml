@@ -1,12 +1,31 @@
 main:
 
+  - title: Electrochromic device based on Vanadium oxide active electrode and salt-based electrolyte
+    authors: Ranjithvel M, Sudha A, Parasuraman Swaminathan
+    conference_short: 
+    conference: "Indian Patent Application: 202441060769 (submitted)"
+    # pdf: 
+    # code: https://github.com/Ranjithvelm/MTech_project
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/Picture_1.png
+    notes: Submitted
+
   - title: Study of salt-based electrolytes on the electrochromic behavior of sputtered vanadium pentoxide films
     authors: Ranjithvel M, Sudha A, Parasuraman Swaminathan* (*Corresponding authors)
-    conference_short: IWPSD
-    conference: XII International Worshop on Physics of Semicounductor devices <strong>(IWPSD)</strong>, 2024.
-    pdf: 
+    conference_short: ACS mat. sur.
+    conference: ACS materials surfaces
+    # pdf: 
     code: https://github.com/Ranjithvelm/MTech_project
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Picture_1.png
-    notes: Review
+    notes: To be submitted
 
+  - title: Magnetron sputtered vanadium oxide for electrochromic applications
+    authors: Ranjithvel M , A. Sudha, Allamula Ashok, Satyesh Kumar Yadav, and Parasuraman Swaminathan
+    conference_short: IWPSD
+    conference: XII International Worshop on Physics of Semicounductor devices <strong>(IWPSD)</strong>, 2024.
+    # pdf: 
+    # code: https://github.com/Ranjithvelm/MTech_project
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Picture_1.png
+    notes: Completed
