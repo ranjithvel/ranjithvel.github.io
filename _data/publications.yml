@@ -16,7 +16,7 @@ main:
     # pdf: 
     # code: https://github.com/Ranjithvelm/MTech_project
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/Picture_1.png
+    image: ./assets/img/ipo.png
     notes: Submitted
 
   - title: Magnetron sputtered vanadium oxide for electrochromic applications
@@ -26,5 +26,5 @@ main:
     # pdf: 
     # code: https://github.com/Ranjithvelm/MTech_project
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/Picture_1.png
+    image: ./assets/img/sputter.png
     notes: Completed
