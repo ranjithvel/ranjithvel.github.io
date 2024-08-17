@@ -6,12 +6,12 @@ main:
     # pdf: 
     code: https://github.com/Ranjithvelm/MTech_project
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/Picture_1.png
+    image: ./assets/img/gos.png
     notes: Yet to be submitted
 
   - title: Electrochromic device based on Vanadium oxide active electrode and salt-based electrolyte
     authors: Ranjithvel M, Sudha A, Parasuraman Swaminathan
-    conference_short: 
+    conference_short: IPO 
     conference: "Indian Patent Application: 202441060769"
     # pdf: 
     # code: https://github.com/Ranjithvelm/MTech_project
