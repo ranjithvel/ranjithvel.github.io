@@ -1,0 +1,12 @@
+main:
+
+  - title: Study of salt-based electrolytes on the electrochromic behavior of sputtered vanadium pentoxide films
+    authors: Ranjithvel M, Sudha A, Parasuraman Swaminathan* (*Corresponding authors)
+    conference_short: IWPSD
+    conference: XII International Worshop on Physics of Semicounductor devices <strong>(IWPSD)</strong>, 2024.
+    pdf: 
+    code: https://github.com/Ranjithvelm/MTech_project
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Picture_1.png
+    notes: Review
+
