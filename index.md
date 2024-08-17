@@ -13,7 +13,7 @@ I am a M.Tech. student in Metallurgical and Materials Engineering at Indian Inst
 
 ## News
 
-- **[Aug. 2024]** Our paper about electrochromism is gone for a final review. and now today
+- **[Aug. 2024]** Our paper about electrochromism is gone for a final review.
 
 
 {% include_relative _includes/publications.md %}
