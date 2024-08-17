@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-I was a M.Tech. student in Metallurgical and Materials Engineering at Indian Institute of Technology Madras.
-As a passionate researcher with a focus on thin film technologies, I thrive on tackling complex challenges and continuously enhancing my expertise. My masters in Metallurgical and Materials Engineering from IIT Madras has equipped me with a robust academic foundation and hands-on research experience.
+I was an M.Tech. student in Metallurgical and Materials Engineering at Indian Institute of Technology Madras.
+    As a passionate researcher with a focus on thin film technologies, I thrive on tackling complex challenges and continuously enhancing my expertise. My masters in Metallurgical and Materials Engineering from IIT Madras has equipped me with a robust academic foundation and hands-on research experience.
 Throughout my academic journey, I have excelled in various capacities, including teaching assistant roles and leading projects. My dedication to research is reflected in my scholastic achievements, including securing an All India Rank of 14 in GATE-2024.
 I am adept at using tools like MATLAB for problem-solving and employ methodologies such as the Zettelkasten method for effective information synthesis. My ultimate goal is to contribute significantly to the field of materials science and engineering through persistent research and innovative solutions.
 Feel free to connect with me to discuss potential collaborations or explore new opportunities in the field of advanced materials.
