@@ -1,12 +1,12 @@
 main:
-  - title: Study of salt-based electrolytes on the electrochromic behavior of sputtered vanadium pentoxide films
+  - title: Study of vanadium pentoxide films for display applications
     authors: Ranjithvel M, Sudha A, Parasuraman Swaminathan* (*Corresponding authors)
     conference_short: ACS Appl. Mater. Interfaces
     conference: ACS Applied Materials & Interfaces
     # pdf: 
-    code: https://github.com/Ranjithvelm/MTech_project
+    # code: https://github.com/Ranjithvelm/MTech_project
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/gos.png
+    # image: ./assets/img/gos.png
     notes: Yet to be submitted
 
   - title: Electrochromic device based on Vanadium oxide active electrode and salt-based electrolyte
