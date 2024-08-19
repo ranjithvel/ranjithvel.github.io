@@ -6,7 +6,7 @@ main:
     # pdf: 
     # code: https://github.com/Ranjithvelm/MTech_project
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/Picture1.png
+    image: ./assets/img/Picture1.png
     notes: Yet to be submitted
 
   - title: Electrochromic device based on Vanadium oxide active electrode and salt-based electrolyte
